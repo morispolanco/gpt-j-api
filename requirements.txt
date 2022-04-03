@@ -9,3 +9,4 @@ ray
 fastapi
 uvicorn
 streamlit~=0.84.0
+openai
